@@ -129,15 +129,6 @@ Key references and learning resources are listed in [`resources.md`](resources.m
 
 ---
 
-## Author
-
-**1xds** — [GitHub](https://github.com/1xds)
-
-NJMU Bioinformatics Graduate Student
-
-Interested in Computational Biology, Structural Bioinformatics, and Medical AI.
-
----
 
 ## Future Work
 
